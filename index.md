@@ -138,6 +138,6 @@ Which will show:
 
 ![](rtm_05.png)
 
-Now try to apply what you have just learned about the effects of the traits considered in PROSAIL on the simulated vegetation spectra to adjust the spectra in a way that they reach the following three NDVI values: 0.20; 0.40; and 0.80. In the next class we will quickly compare the parameter values that each of you found to reach these NDVI values.
+Now try to apply what you have just learned about the effects of the traits considered in PROSAIL on the simulated vegetation spectra to adjust the spectra in a way that they reach the following three NDVI values: 0.20; 0.40; and 0.80. In the next class we will compare the parameter values that each of you found to reach these NDVI values and discuss whether they are matching and what this means.
 
 With this we are already at the end of today's short excursion into the world of radiative transfer models. I hope that all of you see the benefits of using such models for better understanding how certain plants traits affect the reflectance of electromagnetic radiation in different wavelengths. You can maybe imagine that these models can be a very powerful tool when combined with high quality and fine spectral resolution remote sensing data which allow for an inversion of the models as we discussed at the end of today's theoretical lecture.
